@@ -1,0 +1,14 @@
+{
+  "name": "vef1-2021-v8",
+  "version": "1.0.0",
+  "main": "scripts.js",
+  "scripts": {
+    "dev": "browser-sync start --server --files main.js **/*.js styles.css index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.27.5"
+  }
+}
